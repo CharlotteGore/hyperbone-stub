@@ -1,0 +1,16 @@
+{
+  "name": "hyperstub",
+  "version": "0.0.0",
+  "description": "Stub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-shell": "~0.6.1",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
