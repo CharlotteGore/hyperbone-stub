@@ -17,7 +17,7 @@ module.exports = function(grunt){
 				}
 			},
 			flatinate : {
-				command : 'flatinator -n hyperstub --app hyperstub',
+				command : 'flatinator -n hyperbone-stub --app hyperbone-stub',
 				options : {
 					stdout : true,
 					stderr : true
